@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Text Editor'
+        title: 'J.A.T.E'
       }),
 
       new InjectManifest({
@@ -32,7 +32,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Text Editor',
-        short_name: 'Editor',
+        short_name: 'J.A.T.E',
         description: 'A text editor for your needs',
         background_color: '#7eb4e2',
         theme_color: '#7eb4e2',

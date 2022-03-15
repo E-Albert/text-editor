@@ -8,17 +8,17 @@ A place where you can store any kind of text that you want and even retrieve it 
 
 Here is that the site looks like.
 
-![SSofTextEditor](./client/dist/assets/img/texteditorSS.png)
+![SSofTextEditor](/img/texteditorSS.png)
 
 The following image is of the manifest.json file:
 
-![manifestSS](./client/dist/assets/img/TextEditorManifestSS.png)
+![manifestSS](/img/TextEditorManifestSS.png)
 
 The following image is of the registered service worker:
 
-![serviceSS](./client/dist/assets/img/TextEditorServiceSS.png)
+![serviceSS](/img/TextEditorServiceSS.png)
 
 The following image is the IndexedDB storage:
 
-![indexSS](./client/dist/assets/img/TextEditorIndexDBSS.png)
+![indexSS](/img/TextEditorIndexDBSS.png)
 
